@@ -2,7 +2,7 @@
 
 ## Requirements
 
-torch 2.0.1， python3.8，mmcv 
+torch 2.0.1,python3.8,mmcv 
 
 ## Training
 
