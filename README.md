@@ -81,3 +81,10 @@ Generate prompts using the trained SFI_Prompt.
 python predict_prompts.py --config cryoPoint.py --resume checkpoint/feature_fusion/best.pth
 ```
 
+## Evaluation
+
+Find the Precision, Recall and other evaluation metrics:
+
+1.Execute post-processing code (post_processing.ipynb) to obtain the particle coordinate file.
+
+2.For the calculation of the corresponding indicators, see precision_recall.ipynb.
