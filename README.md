@@ -88,3 +88,11 @@ Find the Precision, Recall and other evaluation metrics:
 1.Execute post-processing code (post_processing.ipynb) to obtain the particle coordinate file.
 
 2.For the calculation of the corresponding indicators, see precision_recall.ipynb.
+
+
+
+## rediction platform
+
+http://162.14.117.72:8006/
+
+Due to the platform being temporarily deployed on CPU servers, processing times may be slow. Please be patient.
