@@ -91,7 +91,7 @@ Find the Precision, Recall and other evaluation metrics:
 
 
 
-## rediction platform
+## Rediction platform
 
 http://162.14.117.72:8006/
 
