@@ -96,3 +96,7 @@ Find the Precision, Recall and other evaluation metrics:
 http://162.14.117.72:8006/
 
 Due to the platform being temporarily deployed on CPU servers, processing times may be slow. Please be patient.
+
+## Citation （CCF-A）
+Please cite the work by: 
+Bin Yang*, Yujie You*, Liang Jin, HongYang Yu, Le Zhang, CryoPromptSeg: Prompt-guided Segmentation with Integrated Denoising for Cryo-EM Particle Picking, Bioinformatics, 2026;, btag327, https://doi.org/10.1093/bioinformatics/btag327 
